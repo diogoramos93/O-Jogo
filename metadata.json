@@ -1,0 +1,7 @@
+{
+  "name": "CourtClash",
+  "description": "A mobile-first gamified social network for Tennis, Beach Tennis, and Padel players to find opponents, log matches, and climb global leagues.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
